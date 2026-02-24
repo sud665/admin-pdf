@@ -119,6 +119,7 @@ def generate_pdf(body: GenerateRequest, db: Session = Depends(get_db)):
         )
         generator = PDFGenerator(font_dir=settings.font_dir)
 
+        os.makedirs(PDF_OUTPUT_DIR, exist_ok=True)
         output_path = os.path.join(PDF_OUTPUT_DIR, f"joya_order_{order.id}.pdf")
         generator.generate(
             output_path=output_path,
