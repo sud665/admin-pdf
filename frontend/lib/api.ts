@@ -19,3 +19,5 @@ export async function apiFetch<T>(
 export function apiUrl(path: string): string {
   return `${API_BASE}${path}`;
 }
+
+export const fetcher = <T>(path: string): Promise<T> => apiFetch<T>(path);
