@@ -1,0 +1,4 @@
+# Font files are not committed (too large), download via setup script
+*.ttf
+*.otf
+!.gitignore
