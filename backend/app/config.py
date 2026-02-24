@@ -1,7 +1,10 @@
+from pydantic import ConfigDict
 from pydantic_settings import BaseSettings
 
 
 class Settings(BaseSettings):
+    model_config = ConfigDict(env_file=".env")
+
     database_url: str = "postgresql://postgres:postgres@localhost:5432/joya"
     s3_bucket: str = "joya-pdfs"
     s3_endpoint_url: str | None = None
@@ -9,9 +12,6 @@ class Settings(BaseSettings):
     s3_secret_key: str = ""
     font_dir: str = "fonts"
     image_dir: str = "images"
-
-    class Config:
-        env_file = ".env"
 
 
 settings = Settings()
