@@ -12,6 +12,7 @@ class Settings(BaseSettings):
     s3_secret_key: str = ""
     font_dir: str = "fonts"
     image_dir: str = "images"
+    cors_origins: str = "*"
 
 
 settings = Settings()

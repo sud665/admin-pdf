@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(source /Users/max/Desktop/wishket/admin-pdf/backend/.venv/bin/activate && cd /Users/max/Desktop/wishket/admin-pdf/backend && python -m pytest tests/test_routers_books.py -v)"
+    ]
+  }
+}

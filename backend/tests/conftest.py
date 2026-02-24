@@ -1,9 +1,13 @@
-import pytest
+import os
+
+os.environ["DATABASE_URL"] = "sqlite:///./test.db"
+
+import pytest  # noqa: E402
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
-from app.database import Base, get_db
-from app.main import app
+from app.database import Base, get_db  # noqa: E402
+from app.main import app  # noqa: E402
 
 TEST_DATABASE_URL = "sqlite:///./test.db"
 engine = create_engine(TEST_DATABASE_URL, connect_args={"check_same_thread": False})
