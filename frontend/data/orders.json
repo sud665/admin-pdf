@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1, "book_id": 1, "main_language": "ko",
+    "sub_languages": ["en", "vi"],
+    "person_name": "지민", "person_date": "2026-02-20",
+    "status": "completed", "pdf_url": "/sample.pdf", "warning": null,
+    "created_at": "2026-02-20T14:30:00Z"
+  },
+  {
+    "id": 2, "book_id": 1, "main_language": "en",
+    "sub_languages": ["fr"],
+    "person_name": "Emily", "person_date": "2026-02-22",
+    "status": "completed", "pdf_url": "/sample.pdf", "warning": null,
+    "created_at": "2026-02-22T10:00:00Z"
+  },
+  {
+    "id": 3, "book_id": 1, "main_language": "vi",
+    "sub_languages": ["ko", "en"],
+    "person_name": "Minh", "person_date": "2026-03-01",
+    "status": "processing", "pdf_url": null, "warning": null,
+    "created_at": "2026-03-01T08:00:00Z"
+  }
+]

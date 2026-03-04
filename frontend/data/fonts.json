@@ -1,0 +1,6 @@
+[
+  { "id": 1, "language": "ko", "font_family": "NotoSans-Regular", "font_file_url": "NotoSans-Regular.ttf", "font_size": 14.0, "letter_spacing": 0.0, "line_height": 1.4 },
+  { "id": 2, "language": "en", "font_family": "NotoSans-Regular", "font_file_url": "NotoSans-Regular.ttf", "font_size": 12.0, "letter_spacing": 0.0, "line_height": 1.3 },
+  { "id": 3, "language": "vi", "font_family": "NotoSans-Regular", "font_file_url": "NotoSans-Regular.ttf", "font_size": 12.0, "letter_spacing": 0.0, "line_height": 1.3 },
+  { "id": 4, "language": "fr", "font_family": "NotoSans-Regular", "font_file_url": "NotoSans-Regular.ttf", "font_size": 12.0, "letter_spacing": 0.0, "line_height": 1.3 }
+]

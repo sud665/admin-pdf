@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1, "book_id": 1, "page_number": 1, "page_type": "cover",
+    "bg_image_url": null,
+    "text_area_x": 80.0, "text_area_y": 300.0, "text_area_w": 450.0, "text_area_h": 200.0,
+    "is_personalizable": true
+  },
+  {
+    "id": 2, "book_id": 1, "page_number": 2, "page_type": "opening",
+    "bg_image_url": null,
+    "text_area_x": 60.0, "text_area_y": 200.0, "text_area_w": 480.0, "text_area_h": 350.0,
+    "is_personalizable": true
+  },
+  {
+    "id": 3, "book_id": 1, "page_number": 3, "page_type": "story",
+    "bg_image_url": null,
+    "text_area_x": 60.0, "text_area_y": 200.0, "text_area_w": 480.0, "text_area_h": 350.0,
+    "is_personalizable": false
+  },
+  {
+    "id": 4, "book_id": 1, "page_number": 4, "page_type": "story",
+    "bg_image_url": null,
+    "text_area_x": 60.0, "text_area_y": 200.0, "text_area_w": 480.0, "text_area_h": 350.0,
+    "is_personalizable": false
+  },
+  {
+    "id": 5, "book_id": 1, "page_number": 5, "page_type": "closing",
+    "bg_image_url": null,
+    "text_area_x": 80.0, "text_area_y": 250.0, "text_area_w": 450.0, "text_area_h": 250.0,
+    "is_personalizable": true
+  }
+]

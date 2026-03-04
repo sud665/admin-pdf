@@ -1,0 +1,22 @@
+[
+  { "id": 1, "page_id": 1, "language": "ko", "text_content": "{NAME}의 특별한 모험\n{DATE}에 시작된 이야기", "font_preset_id": 1 },
+  { "id": 2, "page_id": 1, "language": "en", "text_content": "The Special Adventure of {NAME}\nA story that began on {DATE}", "font_preset_id": 2 },
+  { "id": 3, "page_id": 1, "language": "vi", "text_content": "Cuộc phiêu lưu đặc biệt của {NAME}\nCâu chuyện bắt đầu vào {DATE}", "font_preset_id": 3 },
+  { "id": 4, "page_id": 1, "language": "fr", "text_content": "L'aventure spéciale de {NAME}\nUne histoire commencée le {DATE}", "font_preset_id": 4 },
+  { "id": 5, "page_id": 2, "language": "ko", "text_content": "어느 화창한 날, {NAME}은(는) 숲 속에서 반짝이는 작은 빛을 발견했어요.\n\"저건 뭘까?\" {NAME}은(는) 궁금해하며 빛을 따라갔어요.", "font_preset_id": 1 },
+  { "id": 6, "page_id": 2, "language": "en", "text_content": "One sunny day, {NAME} discovered a tiny shimmering light in the forest.\n\"What could that be?\" {NAME} wondered, following the light.", "font_preset_id": 2 },
+  { "id": 7, "page_id": 2, "language": "vi", "text_content": "Vào một ngày nắng đẹp, {NAME} phát hiện một ánh sáng nhỏ lấp lánh trong rừng.\n\"Đó là gì vậy?\" {NAME} tự hỏi và đi theo ánh sáng.", "font_preset_id": 3 },
+  { "id": 8, "page_id": 2, "language": "fr", "text_content": "Par un beau jour ensoleillé, {NAME} découvrit une petite lumière scintillante dans la forêt.\n\"Qu'est-ce que c'est ?\" se demanda {NAME} en suivant la lumière.", "font_preset_id": 4 },
+  { "id": 9, "page_id": 3, "language": "ko", "text_content": "빛을 따라가니 아름다운 정원이 나타났어요. 정원에는 알록달록한 꽃들이 피어 있었고, 나비들이 춤을 추고 있었어요.\n가운데에는 작은 요정이 앉아 있었답니다.", "font_preset_id": 1 },
+  { "id": 10, "page_id": 3, "language": "en", "text_content": "Following the light, a beautiful garden appeared. The garden was filled with colorful flowers, and butterflies were dancing.\nIn the middle sat a tiny fairy.", "font_preset_id": 2 },
+  { "id": 11, "page_id": 3, "language": "vi", "text_content": "Đi theo ánh sáng, một khu vườn tuyệt đẹp hiện ra. Vườn đầy hoa sắc màu và những chú bướm đang nhảy múa.\nỞ giữa vườn, một nàng tiên nhỏ đang ngồi.", "font_preset_id": 3 },
+  { "id": 12, "page_id": 3, "language": "fr", "text_content": "En suivant la lumière, un magnifique jardin apparut. Le jardin était rempli de fleurs colorées et les papillons dansaient.\nAu milieu se trouvait une petite fée.", "font_preset_id": 4 },
+  { "id": 13, "page_id": 4, "language": "ko", "text_content": "\"안녕! 너를 기다리고 있었어,\" 요정이 말했어요.\n\"이 마법의 정원은 용기 있는 아이만 찾을 수 있단다. 네가 바로 그 아이야!\"\n요정은 반짝이는 씨앗 하나를 건네주었어요.", "font_preset_id": 1 },
+  { "id": 14, "page_id": 4, "language": "en", "text_content": "\"Hello! I've been waiting for you,\" said the fairy.\n\"Only a brave child can find this magical garden. You are that child!\"\nThe fairy handed over a sparkling seed.", "font_preset_id": 2 },
+  { "id": 15, "page_id": 4, "language": "vi", "text_content": "\"Xin chào! Tôi đã đợi bạn,\" nàng tiên nói.\n\"Chỉ những đứa trẻ dũng cảm mới tìm được khu vườn phép thuật này. Bạn chính là đứa trẻ đó!\"\nNàng tiên trao một hạt giống lấp lánh.", "font_preset_id": 3 },
+  { "id": 16, "page_id": 4, "language": "fr", "text_content": "\"Bonjour ! Je t'attendais,\" dit la fée.\n\"Seul un enfant courageux peut trouver ce jardin magique. Tu es cet enfant !\"\nLa fée tendit une graine scintillante.", "font_preset_id": 4 },
+  { "id": 17, "page_id": 5, "language": "ko", "text_content": "{NAME}은(는) 씨앗을 소중히 품에 안고 집으로 돌아왔어요.\n그 씨앗은 {NAME}의 용기와 사랑으로 자라나 세상에서 가장 아름다운 꽃이 되었답니다.\n\n— 끝 —", "font_preset_id": 1 },
+  { "id": 18, "page_id": 5, "language": "en", "text_content": "{NAME} held the seed close and returned home.\nThe seed grew with {NAME}'s courage and love, becoming the most beautiful flower in the world.\n\n— The End —", "font_preset_id": 2 },
+  { "id": 19, "page_id": 5, "language": "vi", "text_content": "{NAME} ôm hạt giống và trở về nhà.\nHạt giống lớn lên nhờ lòng dũng cảm và tình yêu của {NAME}, trở thành bông hoa đẹp nhất thế giới.\n\n— Hết —", "font_preset_id": 3 },
+  { "id": 20, "page_id": 5, "language": "fr", "text_content": "{NAME} serra la graine contre son cœur et rentra à la maison.\nLa graine grandit grâce au courage et à l'amour de {NAME}, devenant la plus belle fleur du monde.\n\n— Fin —", "font_preset_id": 4 }
+]
